@@ -1,0 +1,10 @@
+.git
+.github
+node_modules
+**/node_modules
+**/__pycache__
+**/dist
+.lead-data
+.env
+.venv
+systems/batch-runner
